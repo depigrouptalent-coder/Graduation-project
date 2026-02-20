@@ -1,2 +1,0 @@
-# Add your dependencies here (e.g., pandas, matplotlib)
-# pandas , numpy, matplotlib, seaborn, scikit-learn
