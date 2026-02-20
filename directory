@@ -1,0 +1,59 @@
+import os
+from pathlib import Path
+
+def create_project_structure():
+    # Define the project name
+    project_name = "Data_Analytics_Final_Project"
+    
+    # Define all directories and subdirectories
+    directories = [
+        "data/external",
+        "data/interim",
+        "data/processed",
+        "data/raw",
+        "docs/dictionaries",
+        "docs/manual",
+        "docs/tasks",
+        "notebooks",
+        "reports/figures",
+        "src/data",
+        "src/features",
+        "src/visualization",
+    ]
+    
+    # Define empty files to initialize
+    files = [
+        ".gitignore",
+        "README.md",
+        "requirements.txt",
+        "notebooks/01-eda-air-quality.ipynb",
+    ]
+
+    # Create the root project directory
+    root = Path(project_name)
+    root.mkdir(parents=True, exist_ok=True)
+    print(f"--- Creating project: {project_name} ---")
+
+    # Create directories
+    for folder in directories:
+        path = root / folder
+        path.mkdir(parents=True, exist_ok=True)
+        # Create a .gitkeep file so empty folders are tracked by Git
+        (path / ".gitkeep").touch()
+        print(f"Created folder: {folder}")
+
+    # Create initial files
+    for file in files:
+        file_path = root / file
+        if not file_path.exists():
+            file_path.touch()
+            print(f"Created file: {file}")
+
+    # Add a custom header to the README
+    readme_path = root / "README.md"
+    readme_path.write_text("# Data Analytics Final Project\nGenerated via Python script.")
+
+    print("\nProject structure created successfully!")
+
+if __name__ == "__main__":
+    create_project_structure()
