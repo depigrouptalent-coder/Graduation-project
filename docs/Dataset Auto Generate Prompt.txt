@@ -1,0 +1,20 @@
+Sustainable Demographic Projections for the (NAC) New Administrative Capital:
+                     A 20-Year Outlook
+
+Gemini-Pro prompt
+
+Create a simulated CSV dataset for residences, not less than
+100 megabytes, in the new capital in Egypt, from 2025-2040, regarding the
+following aspects
+population ratio (2.41), capacity, and area of the new
+capital, sustainable development
+fields to be included: age(newborn up to 60 years), gender, career, income
+per year, carbon footprint, residence site, transportation, type of residence,
+marital status, number of family members, health percent, Renewable Energy
+Subscription, Monthly Energy Consumption
+Adding any field would be important for prediction analysis and sustainable development 
+Using socio-economic rules
+Consider the CAPMAS Egypt reports and ratios (demographic analysis)
+Divide the result into files for each year
+Consider Water and foods
+Consider the age ranges from CAPMAS
