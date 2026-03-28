@@ -8,7 +8,7 @@ Create a simulated CSV dataset for residences, not less than
 following aspects
 population ratio (2.41), capacity, and area of the new
 capital, sustainable development.
-The residence count will be 500,000 by the end of 2026, according to ACUD's projections.
+The residence count will be 500,000 by the end of 2026, according to ACUD's Egypt projections.
 fields to be included: age(newborn up to 60 years), gender, career, income
 per year, carbon footprint, residence site, transportation, type of residence,
 marital status, number of family members, health percent, Renewable Energy
