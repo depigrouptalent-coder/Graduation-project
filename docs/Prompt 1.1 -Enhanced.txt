@@ -1,5 +1,5 @@
 Create a python code to generate a simulated CSV dataset for residences, for the new capital in Egypt, from 2025-2050, regarding the following aspects:
--	Target population density or Projected population density 12.32% , capacity, and total area of the new capital is 170000 feddans.
+-	Target population density or Projected population density is 12.32%.
 -	The residence count will be 400,000 by the end of 2026, according to ACUD's Egypt projections.
 -	Use socio-economic rules.
 -	Use these websites to identify the Income per year of each career (Bayt, Paylab Egypt, Glassdoor, Payscale, SalaryExpert, TalentUp).
@@ -46,7 +46,7 @@ III.	University Major. (consider the most in-demand majors and fields)
 23-	Public Transit Green Fuel Usage.
 24-	Transportation type.
 Consider the CAPMAS Egypt reports and ratios (demographic analysis)
-Divide the result into files not exceeding 25 MP
+Divide the result into files not exceeding 50 MP
 Consider Water and foods 
 Adding any field would be important for prediction analysis and sustainable development.
 Inject some missing values, outliers, lower and upper cases not exceeding of 3% of the total result to handle the pre-processing cleaning.
