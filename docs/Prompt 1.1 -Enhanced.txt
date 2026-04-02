@@ -1,3 +1,10 @@
+Sustainable Demographic Projections for the (NAC) New Administrative Capital:
+A 25-Year Outlook
+
+Gemini-Pro prompt
+------------------------------------------
+
+
 Create a python code to generate a simulated CSV dataset for residences, for the new capital in Egypt, from 2025-2050, regarding the following aspects:
 -	Target population density or Projected population density is 12.32%.
 -	The residence count will be 400,000 by the end of 2026, according to ACUD's Egypt projections.
