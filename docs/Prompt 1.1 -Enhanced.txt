@@ -1,69 +1,59 @@
 Sustainable Demographic Projections for the (NAC) New Administrative Capital:
-A 20-Year Outlook
-
-Egypt New Capital Data Generator
-
+A 25-Year Outlook
 
 Gemini-Pro prompt
+------------------------------------------
 
 
+Create a python code to generate a simulated CSV dataset for residences, for the new capital in Egypt, from 2025-2050, regarding the following aspects:
+-	Target population density or Projected population density is 12.32%.
+-	The residence count will be 400,000 by the end of 2026, according to ACUD's Egypt projections.
+-	Use socio-economic rules.
+-	Use these websites to identify the Income per year of each career (Bayt, Paylab Egypt, Glassdoor, Payscale, SalaryExpert, TalentUp).
+fields to be included: 
+1-	Age (newborn up to 100 years), use the following percentages
+-	Main Age Groups 
+According to the United Nations and World Bank data (for the period 2025/2026), the population is divided into three main categories:
+i.	Children (0 - 14 years): Constitute approximately 32% of the total population.
+ii.	Working-age population (15 - 64 years): Constitute the largest segment, reaching up to 63%. This reflects a massive workforce and significant productive potential (known as the demographic window).
+iii.	Elderly (65 years and over): Their percentage is only about 5%, which is relatively low compared to developed countries.
+iv.	Important Demographic Indicators for 2026
+o	Median Age: The median age in Egypt is 24.7 years. This means that half of Egypt's population is younger than 24.7 years, and the other half is older, which confirms the youthfulness of the Egyptian society.
+o	Youth Percentage: More than 51% of the total population is under the age of 25.
+o	Dependency Ratio: With 63% of the population in the working age, the dependency ratio is considered moderate, as approximately every two individuals of working age support one individual from the non-working age groups (children or the elderly).
 
-Generate a synthetic CSV dataset for the New Administrative Capital of Egypt (2025-2045), simulating residence data based on demographic projections, socio-e...
-
-**Role**: You are an expert Python programmer specializing in data simulation and CSV generation, with a strong understanding of demographic data and socio-economic factors. You are adept at creating realistic datasets that adhere to specified statistical distributions and real-world constraints.
-
-**Task**: Generate a Python script that simulates a residential dataset for the New Administrative Capital (NAC) in Egypt from 2025 to 2045, following the specified criteria and constraints. The script should output multiple CSV files, each representing a 5-year period of the simulation (2025-2029, 2030-2034, 2035-2039, 2040-2044, and a final partial period of 2045). The total size of the generated dataset (across all CSV files) must be at least 100 MB. The dataset should reflect realistic socio-economic conditions and demographic trends in Egypt, using external data sources where applicable.
-
-**Format**:
-
-1.  **Python Script Structure:**
-    *   Include necessary libraries (e.g., `pandas`, `numpy`, `faker`).
-    *   Define functions for generating data for each field.
-    *   Implement logic to ensure the total residence count reaches 500,000 by the end of 2026, scaling appropriately across residence sites within the new capital.
-    *   Incorporate data from CAPMAS Egypt reports and ratios (demographic analysis) to ensure realistic data generation.
-    *   Create a main function to orchestrate the data generation and file saving process.
-    *   Implement a mechanism to generate the defined data size for each 5 year interval.
-
-2.  **Data Generation Logic:**
-
-    *   **Age:** Generate ages between 0 and 70, using the following percentages based on United Nations and World Bank data:
-        *   Children (0-14 years): 32%
-        *   Working-age population (15-64 years): 63%
-        *   Elderly (65 years and over): 5%
-    *   Consider the median age of **24.7** (Website) years and youth percentage to inform the age distribution.
-    *   **Gender Distribution:** Generate genders with a ratio of approximately 50.5% males (**60.6** (Website) million people) and 49.5% females (**59.5** (Website) million people).
-    *   **Career:** Generate a diverse set of careers, considering the types of jobs available in the New Administrative Capital (consult relevant online resources for typical career paths).
-    *   **Income per year:** Determine income based on career using data scraped or referenced from websites such as Bayt, Paylab Egypt, Glassdoor, Payscale, SalaryExpert, and TalentUp. Model income distributions to reflect socio-economic realities.
-    *   **Residence site:** Generate a variety of residence sites within the NAC (e.g., different neighborhoods or districts).
-    *   **Type of residence:** Generate different types of residences (e.g., apartments, villas, townhouses).
-    *   **Real estate ID (الرقم القومي للعقار):** Generate unique IDs for each property.
-    *   **Marital status:** Generate marital statuses (e.g., single, married, divorced, widowed) with realistic distributions.
-    *   **Number of family members:** Generate the number of family members, aiming for an average of 4 (male, female, and two children).
-    *   **Health percent:** Generate a health percentage representing the overall health condition of the individual.
-    *   **Renewable Energy:** Indicate whether the residence uses renewable energy sources.
-    *   **Subscription:** Generate subscriptions to services (e.g., internet, cable TV).
-    *   **Carbon footprint:** Calculate an estimated carbon footprint based on lifestyle factors.
-    *   **Monthly Energy Consumption:** Generate realistic energy consumption values.
-    *   **Green Fuel Vehicle Ownership:** Indicate whether the residents own a green fuel vehicle.
-    *   **Public Transit Green Fuel Usage:** Indicate the usage of public transport using green fuel.
-    *   **Grid Green Hydrogen Blend Percent:** Generate the grid hydrogen blend percentage.
-    *   Consider Population ratio is (**2.41** (Website)), capacity, and area of the new capital.
-    *   Incorporate additional fields relevant for prediction analysis and sustainable development (e.g., Water Consumption, Food Consumption).
-
-3.  **CSV File Output:**
-
-    *   Create separate CSV files for each 5-year period (2025-2029, 2030-2034, 2035-2039, 2040-2044, 2045).
-    *   Each CSV file should include all the fields mentioned above as columns.
-    *   Ensure each CSV file is properly formatted with a header row.
-    *   The file names should follow the format: `NAC_residences_YYYY-YYYY.csv` (e.g., `NAC_residences_2025-2029.csv`).
-    *   The script should be well-documented with comments explaining each section of the code.
-
-4.  **Socio-Economic Rules:**
-
-    *   Correlate income with career, residence site, and type of residence. Higher-paying careers should generally reside in more expensive areas and dwelling types.
-    *   Relate family size and marital status to residence type and area.
-    *   Consider the dependency ratio for Egypt (**24.7** (Website) years) when generating family structures.
-
-5.  **Deliverables:**
-    *   A well-commented Python script that generates the simulated dataset.
-    *   Five CSV files, each representing a 5-year period of the simulation.
+2-	Year of Birth.
+3-	Year of Death.
+4-	Gender Distribution The ratio between males and females is very close, with a slight majority of males:
+I.	Males: (about 50.5%).
+II.	Females: (about 49.5%).
+5-	Career (consider the most in-demand majors and fields).
+6-	Income per year.
+7-	Residence site.
+8-	Type of residence.
+9-	Real estate ID (الرقم القومي للعقار).
+10-	Marital status use average marriage age:
+I.	Average age of the husband: 30.6 - 31
+II.	Average age of the wife: 24.8 - 25.2
+11-	Number of family members, consider average of 4 (male, female and two children)
+12-	Education in case undergraduate:
+I.	Which Grade.
+II.	Type of education(school).
+III.	University Major. (consider the most in-demand majors and fields)
+13-	Health percent.
+14-	Health condition needs a hospital bed (0, 1)
+15-	Health Condition title contains Cardiovascular Services: Includes cardiac catheterization, open-heart surgeries, and the management of arterial and valve diseases in cardiac intensive care units (ICUs). Oncology Services: Includes diagnosis, chemotherapy, radiation therapy, and specialized surgeries for tumor removal. Neurology: Treatment of nervous system diseases, strokes, and electrical disorders of the brain. Physical Therapy and Rehabilitation: Restoring mobility after strokes and joint surgeries, as well as treating muscle weakness and back pain. (Typically, outpatient, though severe cases may require an inpatient rehab facility). Specialized Medical Councils: Medical examinations for people with disabilities for specially equipped vehicles, tripartite committee reports, and state-funded treatment services. Mental Health: Treatment of depression, anxiety, and chronic psychological disorders. (Generally managed in outpatient clinics). Ophthalmology and Surgeries: Vision correction, lens implantation, and retinal surgeries. (Virtually all are day-surgeries requiring no overnight bed). Specialized Dentistry: Dental prosthetics and implants, gum treatment, and orthodontics.
+16-	Have in house solar system (0 or 1).
+17-	Have Air Condition (0 or 1).
+18-	Electricity consumption average per month by KW.
+19-	Average monthly gas consumption in cubic meters.
+20-	Carbon footprint.
+21-	Monthly Energy Consumption.
+22-	Green Fuel Vehicle Ownership. 
+23-	Public Transit Green Fuel Usage.
+24-	Transportation type.
+Consider the CAPMAS Egypt reports and ratios (demographic analysis)
+Divide the result into files not exceeding 50 MP
+Consider Water and foods 
+Adding any field would be important for prediction analysis and sustainable development.
+Inject some missing values, outliers, lower and upper cases not exceeding of 3% of the total result to handle the pre-processing cleaning.
