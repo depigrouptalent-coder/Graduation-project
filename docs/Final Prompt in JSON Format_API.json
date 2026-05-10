@@ -1,0 +1,11 @@
+{
+  "contents": [{
+    "role": "user",
+    "parts": [{
+      "text": "Use the following JSON configuration to write my Python script: \n { ... paste the JSON block above here ... }"
+    }]
+  }],
+  "generationConfig": {
+    "temperature": 0.2
+  }
+}
