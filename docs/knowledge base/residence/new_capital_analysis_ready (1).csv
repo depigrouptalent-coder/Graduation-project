@@ -1,0 +1,501 @@
+﻿Property_ID,District,Unit_Type,Developer,Area_sqm,Price_EGP,Status
+NAC-0001,Investors Area,Office,Ora,436,18880544,Under Construction
+NAC-0002,R7 District,Office,Misr Italia,141,4415556,Off-plan
+NAC-0003,Investors Area,Villa,New Plan,262,6359264,Off-plan
+NAC-0004,Diplomatic Quarter,Office,Talaat Moustafa,262,9011752,Under Construction
+NAC-0005,CBD (Towers),Office,Misr Italia,276,15704676,Ready to Move
+NAC-0006,Investors Area,Retail Shop,Sodic,263,11562006,Ready to Move
+NAC-0007,R8 District,Apartment,Sodic,129,5356338,Under Construction
+NAC-0008,Financial District,Retail Shop,Better Home,394,28738360,Off-plan
+NAC-0009,R7 District,Villa,Misr Italia,71,1839397,Under Construction
+NAC-0010,R7 District,Villa,New Plan,110,2580930,Under Construction
+NAC-0011,Diplomatic Quarter,Apartment,New Plan,101,4096560,Off-plan
+NAC-0012,R8 District,Apartment,Sodic,108,2545884,Off-plan
+NAC-0013,Investors Area,Villa,Misr Italia,311,12840257,Ready to Move
+NAC-0014,Investors Area,Apartment,Better Home,442,17146506,Off-plan
+NAC-0015,Diplomatic Quarter,Retail Shop,Better Home,143,4721002,Ready to Move
+NAC-0016,Financial District,Studio,Talaat Moustafa,213,8630334,Under Construction
+NAC-0017,R8 District,Retail Shop,Talaat Moustafa,280,6772920,Under Construction
+NAC-0018,R7 District,Studio,Better Home,356,10402676,Ready to Move
+NAC-0019,R7 District,Apartment,Talaat Moustafa,309,8824113,Ready to Move
+NAC-0020,CBD (Towers),Villa,Better Home,192,12012864,Under Construction
+NAC-0021,Investors Area,Retail Shop,New Plan,273,6199011,Under Construction
+NAC-0022,Investors Area,Apartment,Better Home,457,11612827,Off-plan
+NAC-0023,R7 District,Studio,Ora,446,17991194,Under Construction
+NAC-0024,R7 District,Villa,Talaat Moustafa,248,8965200,Off-plan
+NAC-0025,Investors Area,Retail Shop,Sodic,372,9680928,Off-plan
+NAC-0026,Financial District,Retail Shop,Sodic,251,19915344,Under Construction
+NAC-0027,Investors Area,Retail Shop,Ora,119,4083366,Under Construction
+NAC-0028,Financial District,Studio,Better Home,440,22953920,Ready to Move
+NAC-0029,R8 District,Apartment,New Plan,338,12446512,Ready to Move
+NAC-0030,Investors Area,Apartment,Better Home,323,9158019,Off-plan
+NAC-0031,Financial District,Apartment,New Plan,161,6554632,Off-plan
+NAC-0032,R8 District,Apartment,Talaat Moustafa,231,9729951,Ready to Move
+NAC-0033,CBD (Towers),Studio,New Plan,331,18787229,Off-plan
+NAC-0034,CBD (Towers),Retail Shop,Misr Italia,92,10206572,Off-plan
+NAC-0035,R7 District,Apartment,New Plan,266,8229242,Ready to Move
+NAC-0036,R8 District,Apartment,Better Home,414,13179276,Under Construction
+NAC-0037,R7 District,Villa,New Plan,471,19721712,Off-plan
+NAC-0038,Investors Area,Villa,Sodic,256,6305536,Under Construction
+NAC-0039,R7 District,Villa,Better Home,343,12860099,Under Construction
+NAC-0040,Investors Area,Office,Ora,198,7737048,Ready to Move
+NAC-0041,CBD (Towers),Villa,Ora,363,37055766,Off-plan
+NAC-0042,Investors Area,Apartment,Sodic,329,12703348,Under Construction
+NAC-0043,Financial District,Villa,Sodic,80,4219760,Off-plan
+NAC-0044,Financial District,Office,Talaat Moustafa,398,22295960,Off-plan
+NAC-0045,CBD (Towers),Retail Shop,Better Home,103,10925828,Ready to Move
+NAC-0046,Diplomatic Quarter,Office,Better Home,425,12994800,Ready to Move
+NAC-0047,Diplomatic Quarter,Apartment,Ora,157,3615239,Under Construction
+NAC-0048,Diplomatic Quarter,Villa,Talaat Moustafa,330,8808030,Ready to Move
+NAC-0049,R8 District,Retail Shop,Misr Italia,254,7328916,Ready to Move
+NAC-0050,Financial District,Apartment,Talaat Moustafa,101,5078482,Under Construction
+NAC-0051,Investors Area,Studio,New Plan,130,5211700,Under Construction
+NAC-0052,R8 District,Office,Talaat Moustafa,172,3794492,Ready to Move
+NAC-0053,Investors Area,Office,Ora,73,3026215,Ready to Move
+NAC-0054,Investors Area,Apartment,Ora,398,9206536,Under Construction
+NAC-0055,Investors Area,Retail Shop,New Plan,190,5814380,Off-plan
+NAC-0056,Diplomatic Quarter,Office,Sodic,230,6931740,Under Construction
+NAC-0057,CBD (Towers),Retail Shop,Sodic,144,10911456,Under Construction
+NAC-0058,R8 District,Office,Sodic,132,5322768,Under Construction
+NAC-0059,R8 District,Studio,Talaat Moustafa,266,10434914,Off-plan
+NAC-0060,R8 District,Studio,Misr Italia,115,4786645,Off-plan
+NAC-0061,CBD (Towers),Retail Shop,Sodic,197,10421497,Ready to Move
+NAC-0062,Investors Area,Office,New Plan,367,9768439,Off-plan
+NAC-0063,Diplomatic Quarter,Studio,Ora,475,21219200,Ready to Move
+NAC-0064,R7 District,Villa,Better Home,93,3301965,Off-plan
+NAC-0065,R7 District,Villa,Sodic,379,10462295,Off-plan
+NAC-0066,R7 District,Office,Talaat Moustafa,375,13651500,Under Construction
+NAC-0067,CBD (Towers),Office,New Plan,464,40250608,Off-plan
+NAC-0068,Investors Area,Apartment,Misr Italia,187,7665691,Under Construction
+NAC-0069,Financial District,Villa,Misr Italia,433,18767519,Off-plan
+NAC-0070,CBD (Towers),Studio,New Plan,77,5294520,Under Construction
+NAC-0071,R8 District,Retail Shop,Sodic,406,12400052,Ready to Move
+NAC-0072,R8 District,Retail Shop,Sodic,400,17769200,Off-plan
+NAC-0073,Investors Area,Apartment,Talaat Moustafa,433,14986130,Under Construction
+NAC-0074,Financial District,Retail Shop,Better Home,75,5084625,Ready to Move
+NAC-0075,R7 District,Apartment,Ora,208,7901504,Ready to Move
+NAC-0076,Investors Area,Office,Sodic,152,4595264,Ready to Move
+NAC-0077,R7 District,Retail Shop,Ora,157,5508973,Under Construction
+NAC-0078,R8 District,Office,Sodic,271,6091538,Under Construction
+NAC-0079,Investors Area,Studio,Better Home,249,8094741,Ready to Move
+NAC-0080,CBD (Towers),Apartment,Talaat Moustafa,198,17622594,Off-plan
+NAC-0081,Diplomatic Quarter,Studio,Sodic,189,6679260,Under Construction
+NAC-0082,Investors Area,Office,Sodic,63,2454102,Off-plan
+NAC-0083,Investors Area,Retail Shop,Talaat Moustafa,84,2467836,Under Construction
+NAC-0084,Financial District,Office,Better Home,132,7416024,Ready to Move
+NAC-0085,Diplomatic Quarter,Studio,Misr Italia,62,1666498,Off-plan
+NAC-0086,CBD (Towers),Apartment,Misr Italia,362,25949246,Off-plan
+NAC-0087,R8 District,Apartment,Talaat Moustafa,319,8219035,Off-plan
+NAC-0088,Financial District,Studio,Better Home,193,13610553,Under Construction
+NAC-0089,R7 District,Studio,Talaat Moustafa,340,11947600,Under Construction
+NAC-0090,R8 District,Villa,Better Home,185,4622780,Off-plan
+NAC-0091,Financial District,Office,Talaat Moustafa,251,14663169,Off-plan
+NAC-0092,CBD (Towers),Office,Better Home,366,40188264,Off-plan
+NAC-0093,CBD (Towers),Studio,Talaat Moustafa,438,48127878,Ready to Move
+NAC-0094,R7 District,Office,Better Home,167,7388581,Off-plan
+NAC-0095,Investors Area,Studio,Sodic,406,15130808,Off-plan
+NAC-0096,Financial District,Retail Shop,Talaat Moustafa,302,15934426,Ready to Move
+NAC-0097,Investors Area,Office,Ora,482,19244814,Off-plan
+NAC-0098,R7 District,Office,Misr Italia,334,11904094,Ready to Move
+NAC-0099,Financial District,Office,Talaat Moustafa,66,2813184,Ready to Move
+NAC-0100,Diplomatic Quarter,Studio,Talaat Moustafa,342,11410488,Ready to Move
+NAC-0101,Financial District,Retail Shop,Sodic,64,4027200,Off-plan
+NAC-0102,R8 District,Apartment,Ora,305,9956725,Under Construction
+NAC-0103,R7 District,Villa,Ora,333,11929725,Off-plan
+NAC-0104,CBD (Towers),Office,Ora,111,11183694,Off-plan
+NAC-0105,Financial District,Villa,New Plan,451,31933055,Under Construction
+NAC-0106,R7 District,Retail Shop,New Plan,311,8668503,Off-plan
+NAC-0107,R8 District,Retail Shop,Misr Italia,332,12164812,Under Construction
+NAC-0108,R8 District,Apartment,Sodic,469,11618537,Off-plan
+NAC-0109,R7 District,Studio,Sodic,401,13530141,Off-plan
+NAC-0110,CBD (Towers),Apartment,Ora,173,18229010,Ready to Move
+NAC-0111,Financial District,Retail Shop,Sodic,471,24371424,Ready to Move
+NAC-0112,R8 District,Office,Ora,288,9598176,Off-plan
+NAC-0113,Diplomatic Quarter,Studio,Sodic,494,21275098,Ready to Move
+NAC-0114,Investors Area,Office,Talaat Moustafa,412,16932788,Under Construction
+NAC-0115,Diplomatic Quarter,Retail Shop,New Plan,464,10909568,Off-plan
+NAC-0116,Investors Area,Office,Sodic,391,11063736,Under Construction
+NAC-0117,Diplomatic Quarter,Retail Shop,Better Home,321,11907495,Off-plan
+NAC-0118,R7 District,Retail Shop,New Plan,131,3690663,Off-plan
+NAC-0119,Investors Area,Retail Shop,Misr Italia,230,8782550,Ready to Move
+NAC-0120,CBD (Towers),Office,Ora,154,10574718,Under Construction
+NAC-0121,Investors Area,Studio,Better Home,328,9621552,Off-plan
+NAC-0122,Diplomatic Quarter,Office,Ora,295,11392605,Off-plan
+NAC-0123,CBD (Towers),Villa,Sodic,413,31257905,Ready to Move
+NAC-0124,Investors Area,Studio,Ora,91,2559648,Off-plan
+NAC-0125,Financial District,Studio,Ora,412,22622096,Under Construction
+NAC-0126,Diplomatic Quarter,Apartment,Talaat Moustafa,217,9661708,Under Construction
+NAC-0127,Diplomatic Quarter,Villa,Ora,287,8260147,Under Construction
+NAC-0128,CBD (Towers),Apartment,New Plan,396,41098464,Under Construction
+NAC-0129,R7 District,Studio,Misr Italia,399,13527297,Off-plan
+NAC-0130,Financial District,Studio,Misr Italia,493,30363377,Under Construction
+NAC-0131,R8 District,Apartment,New Plan,460,15893920,Off-plan
+NAC-0132,R8 District,Retail Shop,Misr Italia,102,4448934,Off-plan
+NAC-0133,R7 District,Apartment,New Plan,366,12302724,Ready to Move
+NAC-0134,Investors Area,Office,Misr Italia,195,8175180,Off-plan
+NAC-0135,R7 District,Office,Ora,496,17379344,Off-plan
+NAC-0136,Diplomatic Quarter,Studio,Sodic,189,7270830,Under Construction
+NAC-0137,Diplomatic Quarter,Studio,Ora,148,6290888,Under Construction
+NAC-0138,R7 District,Studio,Sodic,174,5774886,Ready to Move
+NAC-0139,R7 District,Apartment,Misr Italia,448,10009216,Under Construction
+NAC-0140,R8 District,Villa,Sodic,167,4886921,Off-plan
+NAC-0141,CBD (Towers),Studio,Talaat Moustafa,83,7362515,Off-plan
+NAC-0142,Investors Area,Villa,New Plan,307,11683499,Off-plan
+NAC-0143,Diplomatic Quarter,Retail Shop,Better Home,329,7652211,Under Construction
+NAC-0144,Financial District,Retail Shop,Sodic,248,12705784,Ready to Move
+NAC-0145,Diplomatic Quarter,Retail Shop,Sodic,212,7380992,Under Construction
+NAC-0146,Diplomatic Quarter,Studio,Sodic,187,7204549,Under Construction
+NAC-0147,Diplomatic Quarter,Retail Shop,Misr Italia,203,5193349,Ready to Move
+NAC-0148,Financial District,Studio,Sodic,353,26652206,Ready to Move
+NAC-0149,Investors Area,Retail Shop,New Plan,483,13338528,Off-plan
+NAC-0150,Financial District,Studio,New Plan,451,28712013,Under Construction
+NAC-0151,Financial District,Apartment,Sodic,355,21822205,Under Construction
+NAC-0152,CBD (Towers),Retail Shop,Better Home,460,33843120,Off-plan
+NAC-0153,Diplomatic Quarter,Apartment,New Plan,139,5776423,Off-plan
+NAC-0154,Investors Area,Apartment,Talaat Moustafa,66,1569678,Under Construction
+NAC-0155,Diplomatic Quarter,Office,Sodic,115,3539125,Under Construction
+NAC-0156,Investors Area,Studio,Misr Italia,363,11279862,Under Construction
+NAC-0157,Investors Area,Villa,Sodic,435,11935095,Under Construction
+NAC-0158,R7 District,Office,Ora,398,14679832,Ready to Move
+NAC-0159,Financial District,Retail Shop,Better Home,178,10581388,Under Construction
+NAC-0160,Diplomatic Quarter,Studio,Talaat Moustafa,471,15516624,Ready to Move
+NAC-0161,Investors Area,Villa,Talaat Moustafa,440,13569160,Ready to Move
+NAC-0162,Investors Area,Apartment,Ora,362,8063912,Off-plan
+NAC-0163,Investors Area,Apartment,Ora,480,19016160,Under Construction
+NAC-0164,Financial District,Villa,Talaat Moustafa,374,21560352,Off-plan
+NAC-0165,R7 District,Office,Better Home,180,6770520,Under Construction
+NAC-0166,Diplomatic Quarter,Retail Shop,New Plan,300,8860200,Under Construction
+NAC-0167,R8 District,Apartment,Sodic,246,5618394,Ready to Move
+NAC-0168,Financial District,Office,Sodic,395,24595070,Under Construction
+NAC-0169,R8 District,Apartment,Sodic,114,2631918,Under Construction
+NAC-0170,Financial District,Apartment,Sodic,280,13539120,Under Construction
+NAC-0171,R7 District,Office,Misr Italia,233,6899363,Off-plan
+NAC-0172,Investors Area,Office,Better Home,454,15807372,Off-plan
+NAC-0173,CBD (Towers),Office,Misr Italia,181,11397751,Off-plan
+NAC-0174,R8 District,Villa,Sodic,139,5061546,Under Construction
+NAC-0175,Diplomatic Quarter,Villa,Talaat Moustafa,266,11330536,Under Construction
+NAC-0176,Financial District,Retail Shop,New Plan,441,25955937,Ready to Move
+NAC-0177,R8 District,Villa,New Plan,403,14409265,Off-plan
+NAC-0178,CBD (Towers),Apartment,Sodic,209,15251148,Off-plan
+NAC-0179,Financial District,Office,Sodic,296,20719112,Off-plan
+NAC-0180,Diplomatic Quarter,Retail Shop,Talaat Moustafa,213,8044797,Ready to Move
+NAC-0181,CBD (Towers),Retail Shop,Ora,136,12871584,Under Construction
+NAC-0182,Investors Area,Office,Sodic,160,6375040,Off-plan
+NAC-0183,Investors Area,Apartment,Sodic,155,5585270,Under Construction
+NAC-0184,R7 District,Villa,Ora,202,8076970,Under Construction
+NAC-0185,Investors Area,Office,Sodic,78,3408132,Ready to Move
+NAC-0186,Diplomatic Quarter,Office,New Plan,242,10412050,Off-plan
+NAC-0187,Financial District,Retail Shop,Ora,487,33951205,Ready to Move
+NAC-0188,R8 District,Villa,New Plan,343,10088316,Under Construction
+NAC-0189,Diplomatic Quarter,Studio,New Plan,488,12690440,Ready to Move
+NAC-0190,R8 District,Studio,Sodic,467,11845455,Ready to Move
+NAC-0191,CBD (Towers),Apartment,Ora,127,13271754,Off-plan
+NAC-0192,R7 District,Studio,Misr Italia,272,12015056,Under Construction
+NAC-0193,R8 District,Retail Shop,Sodic,309,13211604,Ready to Move
+NAC-0194,Diplomatic Quarter,Villa,New Plan,387,12139416,Under Construction
+NAC-0195,CBD (Towers),Apartment,Better Home,231,18955629,Ready to Move
+NAC-0196,Financial District,Apartment,New Plan,105,5383350,Under Construction
+NAC-0197,R8 District,Retail Shop,New Plan,88,2544432,Ready to Move
+NAC-0198,Investors Area,Apartment,New Plan,233,6256749,Under Construction
+NAC-0199,R8 District,Studio,Talaat Moustafa,108,3846528,Under Construction
+NAC-0200,Financial District,Studio,Better Home,244,10953892,Ready to Move
+NAC-0201,R7 District,Villa,Talaat Moustafa,286,7251816,Under Construction
+NAC-0202,R8 District,Office,Talaat Moustafa,469,17117562,Off-plan
+NAC-0203,Diplomatic Quarter,Studio,Talaat Moustafa,117,3041298,Under Construction
+NAC-0204,Investors Area,Retail Shop,Sodic,379,14160577,Off-plan
+NAC-0205,CBD (Towers),Retail Shop,New Plan,303,36199410,Ready to Move
+NAC-0206,Diplomatic Quarter,Office,Talaat Moustafa,129,5089308,Ready to Move
+NAC-0207,R7 District,Office,Misr Italia,256,7759616,Ready to Move
+NAC-0208,Diplomatic Quarter,Villa,Misr Italia,436,14490896,Ready to Move
+NAC-0209,R8 District,Apartment,Better Home,215,5800485,Off-plan
+NAC-0210,Financial District,Studio,Sodic,388,17408784,Off-plan
+NAC-0211,Diplomatic Quarter,Apartment,Better Home,467,11179513,Off-plan
+NAC-0212,Financial District,Retail Shop,Talaat Moustafa,432,18455040,Off-plan
+NAC-0213,Financial District,Office,Misr Italia,355,16268940,Ready to Move
+NAC-0214,Investors Area,Studio,Sodic,212,7406220,Off-plan
+NAC-0215,Investors Area,Retail Shop,Sodic,155,6266805,Under Construction
+NAC-0216,Financial District,Retail Shop,Better Home,78,5894616,Under Construction
+NAC-0217,Financial District,Office,Talaat Moustafa,89,4868389,Under Construction
+NAC-0218,Financial District,Office,Misr Italia,489,31844658,Ready to Move
+NAC-0219,Diplomatic Quarter,Studio,Talaat Moustafa,466,17986668,Off-plan
+NAC-0220,Diplomatic Quarter,Retail Shop,Sodic,497,20520633,Off-plan
+NAC-0221,Diplomatic Quarter,Retail Shop,New Plan,499,20127165,Ready to Move
+NAC-0222,Investors Area,Office,Ora,326,12975126,Under Construction
+NAC-0223,Financial District,Studio,Talaat Moustafa,454,25005412,Ready to Move
+NAC-0224,CBD (Towers),Retail Shop,Better Home,218,25589494,Under Construction
+NAC-0225,CBD (Towers),Villa,Sodic,348,40210008,Off-plan
+NAC-0226,Investors Area,Office,Better Home,152,5895016,Off-plan
+NAC-0227,Investors Area,Villa,Talaat Moustafa,348,9217476,Off-plan
+NAC-0228,CBD (Towers),Apartment,Misr Italia,431,50383469,Under Construction
+NAC-0229,CBD (Towers),Studio,Misr Italia,487,29069517,Ready to Move
+NAC-0230,Investors Area,Villa,Better Home,240,8226720,Under Construction
+NAC-0231,CBD (Towers),Office,Better Home,190,15002210,Ready to Move
+NAC-0232,Investors Area,Studio,Sodic,378,9764118,Under Construction
+NAC-0233,CBD (Towers),Apartment,Talaat Moustafa,457,39934031,Off-plan
+NAC-0234,CBD (Towers),Studio,Better Home,292,32040284,Under Construction
+NAC-0235,R7 District,Apartment,Talaat Moustafa,191,8114826,Off-plan
+NAC-0236,R8 District,Studio,Misr Italia,199,7826670,Ready to Move
+NAC-0237,CBD (Towers),Retail Shop,New Plan,123,10104942,Ready to Move
+NAC-0238,R7 District,Office,New Plan,293,6897220,Under Construction
+NAC-0239,Diplomatic Quarter,Apartment,Sodic,343,9500757,Ready to Move
+NAC-0240,Diplomatic Quarter,Office,Better Home,254,9802876,Ready to Move
+NAC-0241,CBD (Towers),Villa,Misr Italia,491,42880503,Off-plan
+NAC-0242,Diplomatic Quarter,Villa,Talaat Moustafa,89,2650331,Off-plan
+NAC-0243,R7 District,Office,New Plan,339,14109519,Under Construction
+NAC-0244,Financial District,Studio,Sodic,206,8267192,Ready to Move
+NAC-0245,R7 District,Studio,Misr Italia,109,2794760,Ready to Move
+NAC-0246,CBD (Towers),Apartment,Sodic,353,33086690,Off-plan
+NAC-0247,R8 District,Villa,Ora,163,5643549,Off-plan
+NAC-0248,Investors Area,Office,Misr Italia,346,12127300,Ready to Move
+NAC-0249,R7 District,Office,Misr Italia,105,2579850,Ready to Move
+NAC-0250,Investors Area,Villa,Talaat Moustafa,185,4322155,Ready to Move
+NAC-0251,R7 District,Office,Sodic,248,8005440,Ready to Move
+NAC-0252,Diplomatic Quarter,Apartment,Better Home,113,4255015,Ready to Move
+NAC-0253,CBD (Towers),Retail Shop,New Plan,203,10308949,Under Construction
+NAC-0254,R7 District,Retail Shop,Misr Italia,360,11534040,Ready to Move
+NAC-0255,Diplomatic Quarter,Studio,Sodic,428,14404768,Off-plan
+NAC-0256,CBD (Towers),Office,New Plan,489,40342989,Under Construction
+NAC-0257,Financial District,Apartment,New Plan,318,19633320,Ready to Move
+NAC-0258,Diplomatic Quarter,Apartment,Sodic,403,12906075,Ready to Move
+NAC-0259,Investors Area,Office,Misr Italia,278,10313522,Off-plan
+NAC-0260,CBD (Towers),Villa,Better Home,155,15105370,Ready to Move
+NAC-0261,CBD (Towers),Office,Sodic,95,9818345,Ready to Move
+NAC-0262,Diplomatic Quarter,Studio,Misr Italia,68,1686468,Off-plan
+NAC-0263,Investors Area,Villa,Ora,446,17105438,Under Construction
+NAC-0264,Investors Area,Office,Talaat Moustafa,302,12126206,Under Construction
+NAC-0265,Diplomatic Quarter,Villa,New Plan,160,5740160,Ready to Move
+NAC-0266,R8 District,Villa,Misr Italia,281,10704976,Ready to Move
+NAC-0267,R8 District,Villa,New Plan,430,13592300,Ready to Move
+NAC-0268,CBD (Towers),Retail Shop,Sodic,498,45876258,Under Construction
+NAC-0269,Investors Area,Office,Better Home,497,18142985,Ready to Move
+NAC-0270,Diplomatic Quarter,Villa,Ora,318,9432834,Off-plan
+NAC-0271,CBD (Towers),Retail Shop,Talaat Moustafa,85,8267695,Off-plan
+NAC-0272,Diplomatic Quarter,Studio,Talaat Moustafa,418,12904078,Off-plan
+NAC-0273,CBD (Towers),Retail Shop,New Plan,385,29363180,Under Construction
+NAC-0274,CBD (Towers),Villa,Better Home,156,13713336,Ready to Move
+NAC-0275,R7 District,Apartment,Sodic,351,9534915,Under Construction
+NAC-0276,Financial District,Office,Talaat Moustafa,91,4237142,Ready to Move
+NAC-0277,R7 District,Office,Better Home,367,9292440,Ready to Move
+NAC-0278,Financial District,Retail Shop,Talaat Moustafa,395,28998925,Under Construction
+NAC-0279,Investors Area,Retail Shop,Better Home,317,9186977,Under Construction
+NAC-0280,CBD (Towers),Villa,New Plan,212,24968936,Off-plan
+NAC-0281,CBD (Towers),Villa,New Plan,422,48364154,Ready to Move
+NAC-0282,Diplomatic Quarter,Office,Misr Italia,302,10993102,Under Construction
+NAC-0283,R8 District,Villa,Ora,404,10417544,Ready to Move
+NAC-0284,CBD (Towers),Apartment,Sodic,272,14762256,Ready to Move
+NAC-0285,R7 District,Studio,Better Home,222,6207564,Under Construction
+NAC-0286,CBD (Towers),Studio,Talaat Moustafa,306,16395174,Ready to Move
+NAC-0287,Financial District,Studio,Better Home,202,11889114,Off-plan
+NAC-0288,Financial District,Villa,New Plan,358,19776278,Ready to Move
+NAC-0289,CBD (Towers),Office,New Plan,89,7345081,Under Construction
+NAC-0290,R7 District,Villa,Talaat Moustafa,75,3084525,Under Construction
+NAC-0291,Diplomatic Quarter,Retail Shop,New Plan,234,5533398,Under Construction
+NAC-0292,Diplomatic Quarter,Office,Talaat Moustafa,292,8025036,Off-plan
+NAC-0293,R8 District,Apartment,Better Home,119,3166947,Off-plan
+NAC-0294,R8 District,Villa,Sodic,444,19333536,Ready to Move
+NAC-0295,CBD (Towers),Studio,Ora,500,35970500,Ready to Move
+NAC-0296,Financial District,Office,Ora,209,12302576,Off-plan
+NAC-0297,R8 District,Office,Misr Italia,84,2757132,Under Construction
+NAC-0298,R7 District,Retail Shop,Misr Italia,461,15168744,Under Construction
+NAC-0299,R8 District,Retail Shop,Misr Italia,255,6444360,Off-plan
+NAC-0300,Diplomatic Quarter,Apartment,Misr Italia,499,15202035,Ready to Move
+NAC-0301,R8 District,Retail Shop,Sodic,210,8643390,Ready to Move
+NAC-0302,R8 District,Office,Ora,429,14420406,Ready to Move
+NAC-0303,Financial District,Apartment,New Plan,61,3603148,Off-plan
+NAC-0304,R7 District,Villa,Sodic,303,12194538,Under Construction
+NAC-0305,R7 District,Retail Shop,Misr Italia,466,20866082,Under Construction
+NAC-0306,R7 District,Retail Shop,Misr Italia,187,8049602,Off-plan
+NAC-0307,R7 District,Office,Talaat Moustafa,386,8784202,Under Construction
+NAC-0308,CBD (Towers),Studio,Misr Italia,463,34460627,Off-plan
+NAC-0309,R7 District,Studio,Sodic,106,4432390,Under Construction
+NAC-0310,R8 District,Retail Shop,New Plan,437,12927334,Under Construction
+NAC-0311,Investors Area,Villa,Sodic,262,6988064,Ready to Move
+NAC-0312,R8 District,Studio,Ora,296,12732736,Ready to Move
+NAC-0313,CBD (Towers),Studio,Sodic,415,46554285,Off-plan
+NAC-0314,Financial District,Villa,Ora,413,21650699,Off-plan
+NAC-0315,Diplomatic Quarter,Studio,Better Home,404,12138584,Ready to Move
+NAC-0316,Financial District,Apartment,Talaat Moustafa,358,23001858,Ready to Move
+NAC-0317,CBD (Towers),Studio,Talaat Moustafa,226,25262732,Ready to Move
+NAC-0318,R7 District,Apartment,Misr Italia,476,17625804,Off-plan
+NAC-0319,R7 District,Apartment,Sodic,209,8003237,Under Construction
+NAC-0320,Financial District,Studio,New Plan,221,10215504,Under Construction
+NAC-0321,R7 District,Retail Shop,New Plan,142,6280234,Ready to Move
+NAC-0322,Investors Area,Studio,Misr Italia,489,12993219,Ready to Move
+NAC-0323,Financial District,Retail Shop,Talaat Moustafa,497,23438023,Under Construction
+NAC-0324,Financial District,Office,Better Home,136,5460128,Off-plan
+NAC-0325,R8 District,Apartment,Sodic,183,5399049,Off-plan
+NAC-0326,R7 District,Apartment,Better Home,108,3988872,Under Construction
+NAC-0327,R8 District,Villa,Misr Italia,102,4486776,Off-plan
+NAC-0328,Diplomatic Quarter,Villa,Sodic,271,10640544,Off-plan
+NAC-0329,CBD (Towers),Office,New Plan,429,29425968,Under Construction
+NAC-0330,R8 District,Villa,Talaat Moustafa,367,12717651,Off-plan
+NAC-0331,R8 District,Retail Shop,Talaat Moustafa,92,3980380,Off-plan
+NAC-0332,R8 District,Apartment,New Plan,391,10735296,Off-plan
+NAC-0333,Investors Area,Studio,Better Home,471,18494286,Under Construction
+NAC-0334,Financial District,Apartment,Ora,353,20425639,Ready to Move
+NAC-0335,R8 District,Studio,Better Home,133,3065916,Under Construction
+NAC-0336,Investors Area,Villa,Ora,455,10667475,Under Construction
+NAC-0337,R8 District,Retail Shop,New Plan,355,15725435,Off-plan
+NAC-0338,R7 District,Apartment,New Plan,207,8968068,Under Construction
+NAC-0339,Investors Area,Villa,Talaat Moustafa,370,10530570,Ready to Move
+NAC-0340,CBD (Towers),Villa,Ora,380,29394900,Off-plan
+NAC-0341,Investors Area,Villa,Better Home,185,6986525,Off-plan
+NAC-0342,Investors Area,Studio,Sodic,294,8234058,Off-plan
+NAC-0343,Diplomatic Quarter,Apartment,Misr Italia,160,4282720,Off-plan
+NAC-0344,R8 District,Villa,Sodic,231,7522746,Off-plan
+NAC-0345,R7 District,Apartment,Better Home,84,2945040,Ready to Move
+NAC-0346,CBD (Towers),Retail Shop,Sodic,454,27971394,Under Construction
+NAC-0347,R8 District,Villa,Misr Italia,281,6583830,Ready to Move
+NAC-0348,CBD (Towers),Studio,New Plan,299,35794486,Under Construction
+NAC-0349,Financial District,Studio,Talaat Moustafa,274,13880018,Off-plan
+NAC-0350,CBD (Towers),Office,Talaat Moustafa,293,29383212,Ready to Move
+NAC-0351,R7 District,Studio,Ora,402,15215298,Under Construction
+NAC-0352,CBD (Towers),Retail Shop,Talaat Moustafa,470,42401520,Off-plan
+NAC-0353,R8 District,Studio,Sodic,228,5833608,Under Construction
+NAC-0354,R8 District,Villa,Ora,265,8716645,Off-plan
+NAC-0355,CBD (Towers),Villa,Misr Italia,457,43133945,Off-plan
+NAC-0356,Financial District,Villa,Better Home,165,7954650,Under Construction
+NAC-0357,R8 District,Villa,New Plan,436,14789556,Ready to Move
+NAC-0358,Financial District,Villa,Better Home,214,14904672,Under Construction
+NAC-0359,Financial District,Office,Better Home,323,16584758,Under Construction
+NAC-0360,R8 District,Office,Ora,460,14853400,Under Construction
+NAC-0361,Investors Area,Office,Misr Italia,144,4322736,Off-plan
+NAC-0362,R7 District,Retail Shop,Better Home,206,5134756,Under Construction
+NAC-0363,R7 District,Office,Better Home,180,4733460,Ready to Move
+NAC-0364,Investors Area,Retail Shop,Sodic,210,6529320,Off-plan
+NAC-0365,Investors Area,Office,Misr Italia,406,17923276,Off-plan
+NAC-0366,R7 District,Apartment,Ora,179,7369251,Off-plan
+NAC-0367,Diplomatic Quarter,Retail Shop,Misr Italia,263,9198425,Ready to Move
+NAC-0368,R7 District,Studio,Talaat Moustafa,408,16151904,Under Construction
+NAC-0369,Diplomatic Quarter,Apartment,New Plan,251,8830180,Ready to Move
+NAC-0370,Investors Area,Office,Talaat Moustafa,181,7347333,Ready to Move
+NAC-0371,R8 District,Villa,New Plan,391,8694667,Off-plan
+NAC-0372,Diplomatic Quarter,Studio,Sodic,368,15577072,Under Construction
+NAC-0373,Investors Area,Apartment,Ora,64,2079488,Ready to Move
+NAC-0374,Financial District,Villa,Better Home,140,6982500,Off-plan
+NAC-0375,CBD (Towers),Studio,Talaat Moustafa,310,33683980,Off-plan
+NAC-0376,R8 District,Studio,Better Home,156,5055336,Ready to Move
+NAC-0377,Investors Area,Retail Shop,Misr Italia,439,17705748,Under Construction
+NAC-0378,Diplomatic Quarter,Apartment,Sodic,83,3145285,Off-plan
+NAC-0379,R8 District,Studio,Misr Italia,251,11169751,Off-plan
+NAC-0380,Financial District,Villa,Misr Italia,199,9872987,Under Construction
+NAC-0381,Diplomatic Quarter,Office,Better Home,464,18939088,Under Construction
+NAC-0382,R8 District,Retail Shop,Talaat Moustafa,339,10297125,Under Construction
+NAC-0383,R7 District,Retail Shop,Sodic,308,12743808,Under Construction
+NAC-0384,R8 District,Office,Ora,383,9935786,Off-plan
+NAC-0385,Financial District,Retail Shop,Misr Italia,159,10545357,Ready to Move
+NAC-0386,Financial District,Retail Shop,Misr Italia,464,29711312,Off-plan
+NAC-0387,R8 District,Villa,Talaat Moustafa,381,9802749,Ready to Move
+NAC-0388,Diplomatic Quarter,Villa,Ora,305,10829025,Ready to Move
+NAC-0389,R8 District,Apartment,Ora,222,6386940,Ready to Move
+NAC-0390,Financial District,Villa,New Plan,442,34991814,Ready to Move
+NAC-0391,Investors Area,Apartment,Better Home,380,14618220,Under Construction
+NAC-0392,Investors Area,Studio,Misr Italia,65,1563250,Ready to Move
+NAC-0393,R7 District,Apartment,New Plan,205,5052430,Ready to Move
+NAC-0394,Financial District,Studio,Talaat Moustafa,460,30941440,Off-plan
+NAC-0395,Diplomatic Quarter,Retail Shop,Better Home,207,7787133,Ready to Move
+NAC-0396,Investors Area,Apartment,New Plan,121,5211712,Off-plan
+NAC-0397,R8 District,Villa,New Plan,197,8139252,Under Construction
+NAC-0398,R7 District,Office,Misr Italia,394,17465232,Under Construction
+NAC-0399,CBD (Towers),Retail Shop,Better Home,131,9796442,Ready to Move
+NAC-0400,R8 District,Apartment,Talaat Moustafa,190,6562410,Ready to Move
+NAC-0401,Investors Area,Retail Shop,Ora,95,2943765,Under Construction
+NAC-0402,Financial District,Retail Shop,Talaat Moustafa,157,8633744,Ready to Move
+NAC-0403,Financial District,Retail Shop,Ora,189,10695321,Off-plan
+NAC-0404,CBD (Towers),Studio,Better Home,499,32547275,Off-plan
+NAC-0405,R7 District,Office,Better Home,80,2304880,Off-plan
+NAC-0406,R7 District,Studio,Misr Italia,119,4400025,Off-plan
+NAC-0407,Investors Area,Studio,Better Home,72,1942344,Off-plan
+NAC-0408,R8 District,Office,Better Home,360,15052680,Off-plan
+NAC-0409,R7 District,Office,Ora,193,7608639,Under Construction
+NAC-0410,R8 District,Studio,Talaat Moustafa,211,8610277,Off-plan
+NAC-0411,R7 District,Studio,Better Home,138,3265632,Off-plan
+NAC-0412,R7 District,Retail Shop,Sodic,407,10187210,Ready to Move
+NAC-0413,Financial District,Studio,Talaat Moustafa,467,28196059,Off-plan
+NAC-0414,CBD (Towers),Studio,Sodic,224,21348096,Off-plan
+NAC-0415,Investors Area,Villa,New Plan,144,5311440,Under Construction
+NAC-0416,R8 District,Studio,Misr Italia,323,8413504,Off-plan
+NAC-0417,R8 District,Studio,Sodic,152,5921008,Under Construction
+NAC-0418,Diplomatic Quarter,Apartment,Talaat Moustafa,309,13695498,Under Construction
+NAC-0419,Financial District,Villa,Better Home,386,20708900,Ready to Move
+NAC-0420,CBD (Towers),Office,Better Home,236,14706576,Ready to Move
+NAC-0421,R8 District,Villa,New Plan,472,18827136,Ready to Move
+NAC-0422,Financial District,Office,Talaat Moustafa,243,10342323,Under Construction
+NAC-0423,R7 District,Villa,Misr Italia,205,7789385,Off-plan
+NAC-0424,Financial District,Apartment,Better Home,382,17107488,Ready to Move
+NAC-0425,R8 District,Apartment,Better Home,491,14431963,Off-plan
+NAC-0426,Financial District,Retail Shop,Ora,365,26607040,Ready to Move
+NAC-0427,Diplomatic Quarter,Apartment,Sodic,65,2448290,Off-plan
+NAC-0428,CBD (Towers),Villa,Better Home,179,18418026,Ready to Move
+NAC-0429,Financial District,Office,Talaat Moustafa,485,20009160,Under Construction
+NAC-0430,R7 District,Studio,New Plan,493,18036405,Under Construction
+NAC-0431,R7 District,Office,Better Home,180,7750620,Off-plan
+NAC-0432,R7 District,Studio,New Plan,218,7836882,Off-plan
+NAC-0433,Diplomatic Quarter,Apartment,Talaat Moustafa,296,8301616,Ready to Move
+NAC-0434,R7 District,Villa,Sodic,336,13976928,Under Construction
+NAC-0435,Financial District,Apartment,Talaat Moustafa,443,25295300,Ready to Move
+NAC-0436,CBD (Towers),Office,Better Home,114,12704730,Off-plan
+NAC-0437,Diplomatic Quarter,Villa,New Plan,489,18554616,Off-plan
+NAC-0438,Diplomatic Quarter,Apartment,Better Home,334,11166622,Ready to Move
+NAC-0439,R7 District,Apartment,Talaat Moustafa,438,19039422,Ready to Move
+NAC-0440,Diplomatic Quarter,Retail Shop,Better Home,374,10232640,Off-plan
+NAC-0441,Investors Area,Apartment,Misr Italia,266,5996970,Under Construction
+NAC-0442,Financial District,Villa,Better Home,129,8250582,Off-plan
+NAC-0443,Diplomatic Quarter,Apartment,New Plan,436,18718788,Off-plan
+NAC-0444,CBD (Towers),Retail Shop,Better Home,243,18941607,Ready to Move
+NAC-0445,Investors Area,Villa,Sodic,81,2825928,Under Construction
+NAC-0446,Diplomatic Quarter,Retail Shop,Sodic,457,13143320,Ready to Move
+NAC-0447,R7 District,Studio,Ora,333,12413574,Ready to Move
+NAC-0448,CBD (Towers),Villa,Sodic,300,21260400,Off-plan
+NAC-0449,Financial District,Villa,Better Home,174,8632662,Ready to Move
+NAC-0450,R8 District,Villa,Talaat Moustafa,144,5584320,Ready to Move
+NAC-0451,CBD (Towers),Apartment,Sodic,442,47907938,Off-plan
+NAC-0452,CBD (Towers),Office,Sodic,380,42522000,Ready to Move
+NAC-0453,R8 District,Apartment,Misr Italia,118,5207930,Off-plan
+NAC-0454,CBD (Towers),Retail Shop,Sodic,382,42287018,Off-plan
+NAC-0455,Investors Area,Retail Shop,Better Home,267,8833161,Off-plan
+NAC-0456,Investors Area,Villa,Better Home,151,6394095,Ready to Move
+NAC-0457,CBD (Towers),Office,Ora,371,27295954,Under Construction
+NAC-0458,R8 District,Retail Shop,Better Home,469,14509922,Ready to Move
+NAC-0459,R7 District,Retail Shop,Better Home,307,7440759,Off-plan
+NAC-0460,R7 District,Apartment,Misr Italia,346,13110978,Off-plan
+NAC-0461,R8 District,Retail Shop,Ora,488,14208608,Under Construction
+NAC-0462,CBD (Towers),Retail Shop,Ora,130,14817140,Under Construction
+NAC-0463,Diplomatic Quarter,Apartment,New Plan,357,12906978,Off-plan
+NAC-0464,R7 District,Retail Shop,Better Home,123,4527876,Ready to Move
+NAC-0465,R8 District,Apartment,New Plan,87,2244513,Ready to Move
+NAC-0466,R7 District,Apartment,Ora,313,13170101,Off-plan
+NAC-0467,R8 District,Apartment,Sodic,376,16634240,Ready to Move
+NAC-0468,CBD (Towers),Apartment,New Plan,163,18921855,Ready to Move
+NAC-0469,R7 District,Office,Sodic,123,5404128,Under Construction
+NAC-0470,Diplomatic Quarter,Villa,Sodic,349,14858675,Under Construction
+NAC-0471,R7 District,Studio,Talaat Moustafa,493,18099509,Ready to Move
+NAC-0472,Diplomatic Quarter,Studio,Ora,164,5063992,Off-plan
+NAC-0473,R8 District,Studio,Ora,133,3789968,Off-plan
+NAC-0474,R7 District,Villa,Talaat Moustafa,433,12624548,Ready to Move
+NAC-0475,Diplomatic Quarter,Retail Shop,Talaat Moustafa,100,3010100,Under Construction
+NAC-0476,Investors Area,Retail Shop,Sodic,310,8861660,Under Construction
+NAC-0477,Investors Area,Retail Shop,New Plan,283,7571665,Under Construction
+NAC-0478,Financial District,Apartment,Better Home,386,16457882,Ready to Move
+NAC-0479,R8 District,Villa,Better Home,208,6376032,Under Construction
+NAC-0480,Financial District,Retail Shop,New Plan,72,4781880,Ready to Move
+NAC-0481,CBD (Towers),Retail Shop,Misr Italia,495,39087675,Off-plan
+NAC-0482,Diplomatic Quarter,Studio,Misr Italia,347,10125460,Off-plan
+NAC-0483,Financial District,Office,Talaat Moustafa,433,34534781,Under Construction
+NAC-0484,Financial District,Villa,Better Home,438,25622124,Off-plan
+NAC-0485,Diplomatic Quarter,Office,New Plan,344,11694280,Ready to Move
+NAC-0486,CBD (Towers),Retail Shop,Ora,95,8565390,Under Construction
+NAC-0487,R8 District,Apartment,New Plan,494,16515408,Under Construction
+NAC-0488,R7 District,Apartment,Sodic,119,3841677,Off-plan
+NAC-0489,R8 District,Apartment,Misr Italia,95,2528805,Ready to Move
+NAC-0490,CBD (Towers),Office,Misr Italia,71,3759379,Under Construction
+NAC-0491,Investors Area,Villa,Sodic,248,8398024,Ready to Move
+NAC-0492,Financial District,Retail Shop,Ora,452,20013656,Under Construction
+NAC-0493,CBD (Towers),Studio,Better Home,143,12111385,Ready to Move
+NAC-0494,Financial District,Studio,Talaat Moustafa,202,8203422,Off-plan
+NAC-0495,R8 District,Studio,New Plan,490,17465560,Under Construction
+NAC-0496,R7 District,Villa,Talaat Moustafa,190,8447020,Under Construction
+NAC-0497,CBD (Towers),Office,Misr Italia,96,8022336,Under Construction
+NAC-0498,Diplomatic Quarter,Office,Misr Italia,122,4471422,Off-plan
+NAC-0499,Investors Area,Villa,Talaat Moustafa,129,5762301,Under Construction
+NAC-0500,Diplomatic Quarter,Studio,Talaat Moustafa,323,11206485,Under Construction
