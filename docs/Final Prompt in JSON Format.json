@@ -1,0 +1,93 @@
+{
+  "system_instruction": "You are an expert Python data engineer and demographer. Create a Python script to generate a simulated CSV dataset.",
+  "project_context": {
+    "location": "New Administrative Capital, Egypt",
+    "timeline_start": 2025,
+    "timeline_end": 2050,
+    "output_requirements": {
+      "format": "CSV",
+      "batching": "Compile results into files for each 5-year period",
+      "file_size_limit": "Max 200 MB per file"
+    }
+  },
+  "macro_constraints": {
+    "target_population_density": "12.32%",
+    "projected_residents_2050": 6500000,
+    "residence_count_2026": 400000,
+    "references": {
+      "projections": ["ACUD Egypt projections"],
+      "demographics": ["CAPMAS Egypt reports and ratios", "United Nations", "World Bank"],
+      "socio_economic_salaries": ["Bayt", "Paylab Egypt", "Glassdoor", "Payscale", "SalaryExpert", "TalentUp"]
+    }
+  },
+  "dataset_schema_and_rules": {
+    "1_Age": {
+      "description": "Newborn up to 100 years. Median Age: 24.7 years. Youth percentage (<25 yrs): >51%. Dependency ratio: Moderate (~2 working adults per 1 dependent).",
+      "distribution": {
+        "Children_0_to_14": "32%",
+        "Working_Age_15_to_64": "63%",
+        "Elderly_65_plus": "5%"
+      }
+    },
+    "2_Year_of_Birth": "Calculated based on simulation year and age",
+    "3_Year_of_Death": "Simulated based on mortality rates and age",
+    "4_Gender_Distribution": {
+      "Males": "50.5%",
+      "Females": "49.5%"
+    },
+    "5_Career": "Most in-demand majors and fields",
+    "6_Income_per_year": "Calculated using the specified socio-economic salary reference websites",
+    "7_Residence_site": "Specific zone/district in the New Capital",
+    "8_Type_of_residence": "Apartment, Villa, Twin House, etc.",
+    "9_Real_estate_ID": "الرقم القومي للعقار (National Real Estate ID)",
+    "10_Marital_status": {
+      "rule": "Average marriage age constraints",
+      "Husband_average_age": "30.6 - 31",
+      "Wife_average_age": "24.8 - 25.2"
+    },
+    "11_Number_of_family_members": {
+      "average_size": 3.9,
+      "composition_example": ["male", "female", "two children"],
+      "join_key": "Must be linked by Real_estate_ID"
+    },
+    "12_Education": {
+      "condition": "If undergraduate or higher",
+      "fields": {
+        "Grade": "Current academic year or level",
+        "Education_type": "Public, Private, International",
+        "School_type": "Specific classification",
+        "University_Major": "Top 50 most in-demand majors",
+        "University_Type": "Public, Private, National, International"
+      }
+    },
+    "13_Health_percent": "Overall health score/percentage",
+    "14_Hospital_bed_required": {
+      "type": "boolean",
+      "values": [0, 1]
+    },
+    "15_Health_Condition_title": {
+      "categories": [
+        "Cardiovascular Services",
+        "Oncology Services",
+        "Neurology",
+        "Physical Therapy and Rehabilitation",
+        "Specialized Medical Councils",
+        "Mental Health",
+        "Ophthalmology and Surgeries",
+        "Specialized Dentistry"
+      ]
+    },
+    "16_In_house_solar_system": {"type": "boolean", "values": [0, 1]},
+    "17_Air_Condition": {"type": "boolean", "values": [0, 1]},
+    "18_Electricity_consumption_monthly_KW": "Average per month in Kilowatts",
+    "19_Gas_consumption_monthly_m3": "Average per month in cubic meters",
+    "20_Carbon_footprint": "Estimated metric tons",
+    "21_Monthly_Energy_Consumption": "Total aggregated energy score",
+    "22_Green_Fuel_Vehicle_Ownership": {"type": "boolean", "values": [0, 1]},
+    "23_Public_Transit_Green_Fuel_Usage": "Frequency or percentage of usage",
+    "24_Transportation_type": "Includes modern facilities like flying taxis, monorail, LRT",
+    "25_Water_consumption": "Average monthly water usage",
+    "26_Food_consumption": "Estimated food consumption metrics per household",
+    "27_Future_Predictive_Fields": "Include dynamically generated fields useful for predictive analysis and sustainable development modeling"
+  }
+}
