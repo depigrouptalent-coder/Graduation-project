@@ -1,4 +1,4 @@
-Project Name:"Sustainable Demographic Projections for the (NAC) New Administrative Capital:
+Project Name: "Sustainable Demographic Projections for the (NAC) New Administrative Capital:
                      A 25-Year Outlook."
 
 
@@ -15,18 +15,18 @@ Team Members
 
 Project Plan:_
 
-1- Knowledge Base Reasearch.
+1- Knowledge Base Research.
 2- AI Prompt Creation.
-3- Data Generate.
+3- Data Generation.
 4- Data Cleaning.
-5- Data model Precessing.
+5- Data model Processing.
 6- KPI
-7- Data Visualisng.
+7- Data Visualizing.
 8- Documentation.
 9- Reviews.
 10- Presentation.
 
 
-Instructor: Abd-Alrahman Ashour
+Instructor: AbdAlrahman Ashour
 
-Project Files available via "https://drive.google.com/file/d/1NG7cSgN-ITe_FM6LIsWicoCDdGUZdeBS/view?usp=drive_link"
+Project Files available via https://drive.google.com/file/d/1A2JFBh8AaPy-nuTtjQBRecVYaQhR-qLR/view?usp=sharing
